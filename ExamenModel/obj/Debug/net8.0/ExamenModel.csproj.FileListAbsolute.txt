@@ -1,0 +1,11 @@
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenModel\bin\Debug\net8.0\ExamenModel.deps.json
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenModel\bin\Debug\net8.0\ExamenModel.dll
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenModel\bin\Debug\net8.0\ExamenModel.pdb
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenModel\obj\Debug\net8.0\ExamenModel.GeneratedMSBuildEditorConfig.editorconfig
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenModel\obj\Debug\net8.0\ExamenModel.AssemblyInfoInputs.cache
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenModel\obj\Debug\net8.0\ExamenModel.AssemblyInfo.cs
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenModel\obj\Debug\net8.0\ExamenModel.csproj.CoreCompileInputs.cache
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenModel\obj\Debug\net8.0\ExamenModel.dll
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenModel\obj\Debug\net8.0\refint\ExamenModel.dll
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenModel\obj\Debug\net8.0\ExamenModel.pdb
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenModel\obj\Debug\net8.0\ref\ExamenModel.dll

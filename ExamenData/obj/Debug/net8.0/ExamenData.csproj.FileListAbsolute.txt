@@ -1,0 +1,15 @@
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\obj\Debug\net8.0\ExamenData.GeneratedMSBuildEditorConfig.editorconfig
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\obj\Debug\net8.0\ExamenData.AssemblyInfoInputs.cache
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\obj\Debug\net8.0\ExamenData.AssemblyInfo.cs
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\obj\Debug\net8.0\ExamenData.csproj.CoreCompileInputs.cache
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\obj\Debug\net8.0\ExamenData.csproj.AssemblyReference.cache
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\bin\Debug\net8.0\ExamenData.deps.json
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\bin\Debug\net8.0\ExamenData.dll
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\bin\Debug\net8.0\ExamenData.pdb
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\bin\Debug\net8.0\ExamenModel.dll
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\bin\Debug\net8.0\ExamenModel.pdb
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\obj\Debug\net8.0\ExamenData.csproj.Up2Date
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\obj\Debug\net8.0\ExamenData.dll
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\obj\Debug\net8.0\refint\ExamenData.dll
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\obj\Debug\net8.0\ExamenData.pdb
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\ExamenData\obj\Debug\net8.0\ref\ExamenData.dll

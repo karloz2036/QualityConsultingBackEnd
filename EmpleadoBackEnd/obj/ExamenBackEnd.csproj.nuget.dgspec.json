@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\EmpleadoBackEnd\\ExamenBackEnd.csproj": {}
+  },
+  "projects": {
+    "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\EmpleadoBackEnd\\ExamenBackEnd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\EmpleadoBackEnd\\ExamenBackEnd.csproj",
+        "projectName": "ExamenBackEnd",
+        "projectPath": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\EmpleadoBackEnd\\ExamenBackEnd.csproj",
+        "packagesPath": "C:\\Users\\Alejandro Galindo\\.nuget\\packages\\",
+        "outputPath": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\EmpleadoBackEnd\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alejandro Galindo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenData\\ExamenData.csproj": {
+                "projectPath": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenData\\ExamenData.csproj"
+              },
+              "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenModel\\ExamenModel.csproj": {
+                "projectPath": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenModel\\ExamenModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenData\\ExamenData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenData\\ExamenData.csproj",
+        "projectName": "ExamenData",
+        "projectPath": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenData\\ExamenData.csproj",
+        "packagesPath": "C:\\Users\\Alejandro Galindo\\.nuget\\packages\\",
+        "outputPath": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alejandro Galindo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenModel\\ExamenModel.csproj": {
+                "projectPath": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenModel\\ExamenModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenModel\\ExamenModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenModel\\ExamenModel.csproj",
+        "projectName": "ExamenModel",
+        "projectPath": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenModel\\ExamenModel.csproj",
+        "packagesPath": "C:\\Users\\Alejandro Galindo\\.nuget\\packages\\",
+        "outputPath": "Z:\\KarloZ\\trabajos\\QualityConsulting\\ExamenEmpleado\\EmpleadoBackEnd\\ExamenModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alejandro Galindo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
