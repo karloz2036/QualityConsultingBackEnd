@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenBackEnd", "EmpleadoBackEnd\ExamenBackEnd.csproj", "{C00551EA-5583-4F18-834D-2FDA4CD6A368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamenBackEnd", "EmpleadoBackEnd\ExamenBackEnd.csproj", "{C00551EA-5583-4F18-834D-2FDA4CD6A368}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 Data", "0 Data", "{F8B34BAD-1DC8-451D-B9F3-65A16C9ECF16}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Model", "1 Model", "{F1EB7D2F-0CE8-478A-8348-29A16B09D55C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenData", "ExamenData\ExamenData.csproj", "{158FA06A-936C-4F67-9AB7-917A294CFDB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamenData", "ExamenData\ExamenData.csproj", "{158FA06A-936C-4F67-9AB7-917A294CFDB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenModel", "ExamenModel\ExamenModel.csproj", "{A0F2632D-62CB-46FB-BD7A-4317E7A996E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamenModel", "ExamenModel\ExamenModel.csproj", "{A0F2632D-62CB-46FB-BD7A-4317E7A996E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScriptBD", "ScriptBD", "{837D03AD-BFFF-42E4-984C-8B7FE5898999}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{158FA06A-936C-4F67-9AB7-917A294CFDB2} = {F8B34BAD-1DC8-451D-B9F3-65A16C9ECF16}
 		{A0F2632D-62CB-46FB-BD7A-4317E7A996E1} = {F1EB7D2F-0CE8-478A-8348-29A16B09D55C}
+		{837D03AD-BFFF-42E4-984C-8B7FE5898999} = {F8B34BAD-1DC8-451D-B9F3-65A16C9ECF16}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {87D46214-39D9-465C-AE04-A5808EBCF7AC}
