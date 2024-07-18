@@ -50,7 +50,6 @@ namespace ExamenBackEnd.Controllers
             }
         }
 
-
         [HttpPost]
         [Route("agregarEmpleado")]
         public IActionResult Agregar([FromBody] EmpleadoModel values)
@@ -87,8 +86,6 @@ namespace ExamenBackEnd.Controllers
             }
         }
 
-
-
         [HttpDelete("eliminarEmpleado/{empleadoId}")]
         public IActionResult Eliminar(int empleadoId)
         {
@@ -123,7 +120,6 @@ namespace ExamenBackEnd.Controllers
                 return Json(response);
             }
         }
-
 
         [HttpPut]
         [Route("ActualizarEmpleado")]

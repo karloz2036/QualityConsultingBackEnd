@@ -41,3 +41,4 @@ Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\EmpleadoBack
 Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\EmpleadoBackEnd\bin\Debug\net8.0\ExamenData.pdb
 Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\EmpleadoBackEnd\bin\Debug\net8.0\ExamenModel.pdb
 Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\EmpleadoBackEnd\obj\Debug\net8.0\ExamenBackEnd.MvcApplicationPartsAssemblyInfo.cs
+Z:\KarloZ\trabajos\QualityConsulting\ExamenEmpleado\EmpleadoBackEnd\EmpleadoBackEnd\obj\Debug\net8.0\ExamenBackEnd.sourcelink.json

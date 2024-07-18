@@ -16,4 +16,8 @@
     <ProjectReference Include="..\ExamenModel\ExamenModel.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ArchivosAdicionales\" />
+  </ItemGroup>
+
 </Project>

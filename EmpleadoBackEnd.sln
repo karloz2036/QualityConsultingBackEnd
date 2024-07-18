@@ -13,8 +13,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamenData", "ExamenData\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamenModel", "ExamenModel\ExamenModel.csproj", "{A0F2632D-62CB-46FB-BD7A-4317E7A996E1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScriptBD", "ScriptBD", "{837D03AD-BFFF-42E4-984C-8B7FE5898999}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,7 +38,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{158FA06A-936C-4F67-9AB7-917A294CFDB2} = {F8B34BAD-1DC8-451D-B9F3-65A16C9ECF16}
 		{A0F2632D-62CB-46FB-BD7A-4317E7A996E1} = {F1EB7D2F-0CE8-478A-8348-29A16B09D55C}
-		{837D03AD-BFFF-42E4-984C-8B7FE5898999} = {F8B34BAD-1DC8-451D-B9F3-65A16C9ECF16}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {87D46214-39D9-465C-AE04-A5808EBCF7AC}

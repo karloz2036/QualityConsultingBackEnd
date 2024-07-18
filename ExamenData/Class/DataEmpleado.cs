@@ -14,15 +14,12 @@ namespace ExamenData.Class
 {
     public class DataEmpleado : IDataEmpleado
     {
-
         private readonly ConnectionStrings conexiones;
-
 
         public DataEmpleado(IOptions<ConnectionStrings> options)
         {
             conexiones = options.Value;
         }
-
 
         public List<EmpleadoModel> ObtenerEmpleados()
         {
